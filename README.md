@@ -1,2 +1,4 @@
-# app-dev
-My first repository
+# Metal Gear Solid
+Metal Gear Solid is an action/stealth video game developed by [Kojima Productions](https://www.kojimaproductions.jp/en) led by Hideo Kojima and the publisher [Konami](https://www.konami.com/en/). 
+
+The main series followed 4 characters that are also the playable character in their respective games: [Solid Snake](https://metalgear.fandom.com/wiki/Solid) (Metal Gear 1, Metal Gear 2: Solid Snake (intro only), Metal Gear Solid, Metal Gear Solid 2: Sons of Liberty, Metal Gear Solid 4: Guns of the Patriot), [Raiden](https://metalgear.fandom.com/wiki/Raiden) (Metal Gear Solid 2: Sons of Liberty), [Naked Snake/Big Boss](https://metalgear.fandom.com/wiki/Big_Boss) (Metal Gear Solid 3: Snake Eater, Metal Gear Solid: Peace Walker, Metal Gear Solid V: Ground Zeroes), and [Venom Snake](https://metalgear.fandom.com/wiki/Venom_Snake) (Metal Gear Solid V: The Phantom Pain).
